@@ -5,7 +5,7 @@ Pod::Spec.new do |s|
   s.homepage     = 'nssubject.com'
   s.license      = { :type => 'MIT', :file => 'LICENSE' }
   s.author       = { 'Khang Hoang' => 'hoangtrieukhang@gmail.com' }
-  s.source       = { :git => 'https://github.com/khanghoang/WooClient.git', :tag => '0.1' }
+  s.source       = { :git => 'https://github.com/khanghoang/WooClient.git', :tag => 'v0.1' }
   s.source_files = 'WooClient/*.{h,m}'
   s.frameworks   = 'Foundation'
   s.requires_arc = true
