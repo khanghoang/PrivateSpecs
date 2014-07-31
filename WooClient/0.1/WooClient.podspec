@@ -10,5 +10,5 @@ Pod::Spec.new do |s|
   s.frameworks   = 'Foundation'
   s.requires_arc = true
   s.social_media_url   = "https://twitter.com/khanght"
-  s.dependency "AFNetworking", "~> 1.3.4"
+  s.dependency = "AFNetworking", "~> 1.3.4"
 end
